@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 hello there !!! 
 I'm a developer
+=======
+hello there !!!
+
+
+
+
+I'm the main developer
+>>>>>>> main
